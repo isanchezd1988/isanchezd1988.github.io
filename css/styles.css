@@ -650,14 +650,14 @@ p {
   list-style: none;
 }
 .progress-bar {
-  background: #cc0000;
+  background: #ce5f5f;
   width: 20%;
 }
 .progress-bar-2 {
-  background: #ff9933;
+  background: #249991;
 }
 .progress-bar-3 {
-  background: #29a329;
+  background: #3b658a;
 }
 /* ==========================================================
 ! 11. Section: Portfolio
